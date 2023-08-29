@@ -29,7 +29,7 @@ The IoT Weather Station is a comprehensive weather monitoring system that utiliz
 ![Schematic](https://github.com/DanyalHabib007/IoT_Weather_Station/blob/main/Images/3.jpeg)
 ## Webpage Screenshot
 
-![Screenshot](https://github.com/DanyalHabib007/IoT_Weather_Station/blob/main/Images/4.jpeg)
+![Screenshot](https://github.com/DanyalHabib007/IoT_Weather_Station/blob/main/Images/4.png)
 ## Setup and Configuration
 1. Connect the sensors to the ESP32 as per the provided schematics.
 2. Upload the necessary code to the ESP32 using the Arduino IDE or your preferred programming environment.
